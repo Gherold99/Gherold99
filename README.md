@@ -2,7 +2,7 @@
 - 👀 I’m interested in ASP.Net
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C# and ASP.NET
-- 📫 How to reach me @Gherold99
+- 📫 How to reach me Gherold999
 
 <!---
 Gherold99/Gherold99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
